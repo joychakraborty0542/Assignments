@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: jost, sans-serif;
+    font-weight: 400;
+    
+
+}
+.container
+{ 
+   
+   
+    background-color: bisque;
+  
+}
+
+
+
+input
+{
+    width: 80%;
+    color: aliceblue;
+
+}
+table{
+    width: 80%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .section-1
+  {
+    padding-top: 3rem;
+  }
+
+  .section-2
+  {
+    padding-top: 3rem;
+  }
+
+.Save
+{
+background-color: green;
+
+
+}
+.button
+{
+    padding-top: 1rem;
+}
+.btn1
+{
+    background-color: blue;
+   
+}
+.btn2
+{
+    background-color: rgb(227, 18, 53);
+ 
+
+}
+
+
+
